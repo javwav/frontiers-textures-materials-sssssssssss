@@ -1,1 +1,3 @@
+add sonic.pac
+add soniccyber.pac
 add mod.ini
